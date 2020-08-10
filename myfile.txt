@@ -1,2 +1,4 @@
 new file is created
 for testing git command
+line added by Developer1
+
